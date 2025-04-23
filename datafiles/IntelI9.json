@@ -1,0 +1,227 @@
+[
+    {
+      "name": "Intel Core i9-9100",
+      "sku": "INTEL-i9-9100",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    },
+    {
+      "name": "Intel Core i9-9101",
+      "sku": "INTEL-i9-9101",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    },
+    {
+      "name": "Intel Core i9-9102",
+      "sku": "INTEL-i9-9102",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    },
+    {
+      "name": "Intel Core i9-9103",
+      "sku": "INTEL-i9-9103",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    },
+    {
+      "name": "Intel Core i9-9104",
+      "sku": "INTEL-i9-9104",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    },
+    {
+      "name": "Intel Core i9-9105",
+      "sku": "INTEL-i9-9105",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    },
+    {
+      "name": "Intel Core i9-9106",
+      "sku": "INTEL-i9-9106",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    },
+    {
+      "name": "Intel Core i9-9107",
+      "sku": "INTEL-i9-9107",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    },
+    {
+      "name": "Intel Core i9-9108",
+      "sku": "INTEL-i9-9108",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    },
+    {
+      "name": "Intel Core i9-9109",
+      "sku": "INTEL-i9-9109",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    },
+    {
+      "name": "Intel Core i9-9110",
+      "sku": "INTEL-i9-9110",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    },
+    {
+      "name": "Intel Core i9-9111",
+      "sku": "INTEL-i9-9111",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    },
+    {
+      "name": "Intel Core i9-9112",
+      "sku": "INTEL-i9-9112",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    },
+    {
+      "name": "Intel Core i9-9113",
+      "sku": "INTEL-i9-9113",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    },
+    {
+      "name": "Intel Core i9-9114",
+      "sku": "INTEL-i9-9114",
+      "description": "Bộ vi xử lý Intel Core i9-9100 thế hệ mới, sản xuất trên tiến trình 3nm tiên tiến, mang lại hiệu năng đỉnh cao và tiết kiệm năng lượng vượt trội. Trang bị 12 nhân, 24 luồng, tốc độ xung nhịp cơ bản 4.0GHz và có thể đạt 5.2GHz với công nghệ Intel Turbo Boost Max 3.0. Tích hợp đồ họa Intel Iris Xe Graphics cải tiến và hỗ trợ AI tối ưu, sản phẩm này lý tưởng cho chơi game AAA, chỉnh sửa video 8K, mô phỏng 3D phức tạp và các tác vụ đa nhiệm chuyên sâu. Công nghệ Intel Smart Cache 24MB cùng hỗ trợ RAM DDR5 đảm bảo hiệu suất mượt mà, đáp ứng nhu cầu của các chuyên gia sáng tạo và doanh nghiệp lớn.",
+      "brand": "Intel",
+      "price": 2000,
+      "quantity": 100,
+      "thumbnail": "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+      "images": [
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/5e15ef321c5bbae45eecf90428ae6806/detailed",
+        "https://res-console.cloudinary.com/drekow0xw/media_explorer_thumbnails/7d0c653684324437fc97d21fd486936c/detailed"
+      ],
+      "categoryId": "e98dce27-cafb-4e05-ab78-e4087da56dea",
+      "featured": true
+    }
+  ]
